@@ -4,7 +4,8 @@ export const SEVERITY_LEVELS = ['low', 'medium', 'high']
 
 export const ROUTE_STATUSES = ['pending', 'active', 'completed']
 
-export const API_BASE_URL = '/api'
+export const API_BASE_URL =
+  import.meta.env.VITE_API_URL || '/api'
 
 export const REFRESH_INTERVAL_MS = 30000 // fallback polling interval if sockets disconnect
 
