@@ -1,0 +1,45 @@
+{
+  "appName": "NER Smart Logistics & Accessibility Platform",
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "accessibility": "Accessibility",
+    "fieldReport": "Field Report",
+    "routes": "Route Planning",
+    "alerts": "Alerts",
+    "analytics": "Analytics",
+    "vehicles": "Vehicles",
+    "supplies": "Supplies",
+    "districts": "Districts"
+  },
+  "home": {
+    "title": "AI-Based Smart Logistics & Accessibility Intelligence Platform",
+    "subtitle": "Real-time road & bridge accessibility, disruption prediction, and essential-supply tracking for the North Eastern Region.",
+    "poweredBy": "Built for MDoNER \u2014 Ministry of Development of North Eastern Region"
+  },
+  "accessibility": {
+    "title": "District-wise Accessibility Dashboard",
+    "connectivityNormal": "Normal",
+    "connectivityPartial": "Partial",
+    "connectivityDisrupted": "Disrupted",
+    "highRiskCorridors": "High-Risk Corridors"
+  },
+  "fieldReport": {
+    "title": "Submit Field Report",
+    "subtitle": "Report road, bridge, or accessibility incidents with photo and location.",
+    "reporterName": "Your Name",
+    "reporterRole": "Role",
+    "incidentType": "Incident Type",
+    "description": "Description",
+    "photo": "Photo",
+    "useMyLocation": "Use My Current Location",
+    "submit": "Submit Report",
+    "offlineNotice": "You're offline. This report will be saved and synced automatically once you're back online.",
+    "queuedCount": "{{count}} report(s) waiting to sync"
+  },
+  "common": {
+    "online": "Online",
+    "offline": "Offline",
+    "loading": "Loading..."
+  }
+}

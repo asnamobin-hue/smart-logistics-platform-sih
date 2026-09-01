@@ -1,0 +1,1288 @@
+{
+  "_meta": {
+    "isDemoData": true,
+    "disclaimer": "DEMO DATA",
+    "lastUpdated": "2026-08-28"
+  },
+  "districts": [
+    {
+      "id": "d01",
+      "name": "Kamrup Metropolitan",
+      "state": "Assam",
+      "lat": 26.1445,
+      "lon": 91.7362,
+      "terrain": "plains",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 1,
+      "totalRoads": 12,
+      "openRoads": 11,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d02",
+      "name": "Dibrugarh",
+      "state": "Assam",
+      "lat": 27.4728,
+      "lon": 94.912,
+      "terrain": "plains",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 8,
+      "openRoads": 8,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d03",
+      "name": "Karbi Anglong",
+      "state": "Assam",
+      "lat": 26.1074,
+      "lon": 93.1789,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 2,
+      "totalRoads": 6,
+      "openRoads": 3,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d04",
+      "name": "Cachar",
+      "state": "Assam",
+      "lat": 24.5155,
+      "lon": 92.7264,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 1,
+      "totalRoads": 7,
+      "openRoads": 5,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d05",
+      "name": "Tirap",
+      "state": "Arunachal Pradesh",
+      "lat": 26.9114,
+      "lon": 95.444,
+      "terrain": "mountain",
+      "connectivityStatus": "disrupted",
+      "activeDisruptions": 3,
+      "totalRoads": 4,
+      "openRoads": 1,
+      "blockedRoads": 2
+    },
+    {
+      "id": "d06",
+      "name": "East Siang",
+      "state": "Arunachal Pradesh",
+      "lat": 28.0879,
+      "lon": 95.1014,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 1,
+      "totalRoads": 5,
+      "openRoads": 3,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d07",
+      "name": "Papum Pare",
+      "state": "Arunachal Pradesh",
+      "lat": 27.2578,
+      "lon": 93.6814,
+      "terrain": "hills",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 4,
+      "openRoads": 4,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d08",
+      "name": "Imphal West",
+      "state": "Manipur",
+      "lat": 24.8081,
+      "lon": 93.9199,
+      "terrain": "valley",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 6,
+      "openRoads": 6,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d09",
+      "name": "Churachandpur",
+      "state": "Manipur",
+      "lat": 24.3294,
+      "lon": 93.6753,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 2,
+      "totalRoads": 5,
+      "openRoads": 2,
+      "blockedRoads": 2
+    },
+    {
+      "id": "d10",
+      "name": "Thoubal",
+      "state": "Manipur",
+      "lat": 24.6271,
+      "lon": 94.0168,
+      "terrain": "valley",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 4,
+      "openRoads": 4,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d11",
+      "name": "East Khasi Hills",
+      "state": "Meghalaya",
+      "lat": 25.467,
+      "lon": 91.3662,
+      "terrain": "plateau",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 5,
+      "openRoads": 5,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d12",
+      "name": "West Garo Hills",
+      "state": "Meghalaya",
+      "lat": 25.616,
+      "lon": 90.2275,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 1,
+      "totalRoads": 4,
+      "openRoads": 2,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d13",
+      "name": "Jaintia Hills",
+      "state": "Meghalaya",
+      "lat": 25.2634,
+      "lon": 92.2066,
+      "terrain": "hills",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 3,
+      "openRoads": 3,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d14",
+      "name": "Aizawl",
+      "state": "Mizoram",
+      "lat": 23.7271,
+      "lon": 92.7176,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 1,
+      "totalRoads": 4,
+      "openRoads": 2,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d15",
+      "name": "Lunglei",
+      "state": "Mizoram",
+      "lat": 22.8846,
+      "lon": 92.7461,
+      "terrain": "mountain",
+      "connectivityStatus": "disrupted",
+      "activeDisruptions": 2,
+      "totalRoads": 3,
+      "openRoads": 0,
+      "blockedRoads": 2
+    },
+    {
+      "id": "d16",
+      "name": "Kohima",
+      "state": "Nagaland",
+      "lat": 25.6586,
+      "lon": 94.1086,
+      "terrain": "hills",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 4,
+      "openRoads": 4,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d17",
+      "name": "Mokokchung",
+      "state": "Nagaland",
+      "lat": 26.3221,
+      "lon": 94.5032,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 1,
+      "totalRoads": 3,
+      "openRoads": 2,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d18",
+      "name": "East District",
+      "state": "Sikkim",
+      "lat": 27.3342,
+      "lon": 88.6065,
+      "terrain": "mountain",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 2,
+      "totalRoads": 3,
+      "openRoads": 1,
+      "blockedRoads": 1
+    },
+    {
+      "id": "d19",
+      "name": "South District",
+      "state": "Sikkim",
+      "lat": 27.0736,
+      "lon": 88.304,
+      "terrain": "mountain",
+      "connectivityStatus": "disrupted",
+      "activeDisruptions": 3,
+      "totalRoads": 2,
+      "openRoads": 0,
+      "blockedRoads": 2
+    },
+    {
+      "id": "d20",
+      "name": "West Tripura",
+      "state": "Tripura",
+      "lat": 23.9408,
+      "lon": 91.9882,
+      "terrain": "plains",
+      "connectivityStatus": "normal",
+      "activeDisruptions": 0,
+      "totalRoads": 5,
+      "openRoads": 5,
+      "blockedRoads": 0
+    },
+    {
+      "id": "d21",
+      "name": "North Tripura",
+      "state": "Tripura",
+      "lat": 24.325,
+      "lon": 92.0892,
+      "terrain": "hills",
+      "connectivityStatus": "partial",
+      "activeDisruptions": 1,
+      "totalRoads": 3,
+      "openRoads": 2,
+      "blockedRoads": 0
+    }
+  ],
+  "roads": [
+    {
+      "id": "r01",
+      "name": "NH-37 Guwahati-Jorhat",
+      "type": "road",
+      "districtId": "d01",
+      "status": "open",
+      "riskScore": 25,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          26.1445,
+          91.7362
+        ],
+        [
+          26.7509,
+          92.6845
+        ],
+        [
+          26.9842,
+          94.4226
+        ]
+      ]
+    },
+    {
+      "id": "r02",
+      "name": "Dibrugarh-Tinsukia Highway",
+      "type": "road",
+      "districtId": "d02",
+      "status": "open",
+      "riskScore": 15,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          27.4728,
+          94.912
+        ],
+        [
+          27.5772,
+          95.3578
+        ]
+      ]
+    },
+    {
+      "id": "r03",
+      "name": "Karbi Anglong Road",
+      "type": "road",
+      "districtId": "d03",
+      "status": "restricted",
+      "riskScore": 68,
+      "riskLevel": "high",
+      "riskFactors": [
+        "structural_damage",
+        "flood_prone"
+      ],
+      "path": [
+        [
+          26.1074,
+          93.1789
+        ],
+        [
+          26.1843,
+          93.2617
+        ]
+      ]
+    },
+    {
+      "id": "r04",
+      "name": "Silchar-Manipur Road",
+      "type": "road",
+      "districtId": "d04",
+      "status": "open",
+      "riskScore": 45,
+      "riskLevel": "moderate",
+      "riskFactors": [
+        "heavy_rainfall"
+      ],
+      "path": [
+        [
+          24.5155,
+          92.7264
+        ],
+        [
+          24.4935,
+          93.3547
+        ]
+      ]
+    },
+    {
+      "id": "r05",
+      "name": "Tirap Long Road",
+      "type": "road",
+      "districtId": "d05",
+      "status": "blocked",
+      "riskScore": 92,
+      "riskLevel": "severe",
+      "riskFactors": [
+        "landslide",
+        "flooding",
+        "road_damage"
+      ],
+      "path": [
+        [
+          26.9114,
+          95.444
+        ],
+        [
+          26.972,
+          95.5487
+        ]
+      ]
+    },
+    {
+      "id": "r06",
+      "name": "Itanagar Highway",
+      "type": "road",
+      "districtId": "d07",
+      "status": "open",
+      "riskScore": 20,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          27.2578,
+          93.6814
+        ],
+        [
+          27.0846,
+          93.6968
+        ]
+      ]
+    },
+    {
+      "id": "r07",
+      "name": "Imphal-Dimapur Road",
+      "type": "road",
+      "districtId": "d08",
+      "status": "open",
+      "riskScore": 30,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          24.8081,
+          93.9199
+        ],
+        [
+          25.9119,
+          93.7276
+        ]
+      ]
+    },
+    {
+      "id": "r08",
+      "name": "Churachandpur-Silchar Road",
+      "type": "road",
+      "districtId": "d09",
+      "status": "blocked",
+      "riskScore": 85,
+      "riskLevel": "severe",
+      "riskFactors": [
+        "landslide",
+        "road_damage"
+      ],
+      "path": [
+        [
+          24.3294,
+          93.6753
+        ],
+        [
+          24.4137,
+          93.2584
+        ]
+      ]
+    },
+    {
+      "id": "r09",
+      "name": "Shillong-Cherrapunji Road",
+      "type": "road",
+      "districtId": "d11",
+      "status": "open",
+      "riskScore": 35,
+      "riskLevel": "low",
+      "riskFactors": [
+        "heavy_rainfall"
+      ],
+      "path": [
+        [
+          25.467,
+          91.3662
+        ],
+        [
+          25.2988,
+          91.7268
+        ]
+      ]
+    },
+    {
+      "id": "r10",
+      "name": "Aizawl-Kolasib Road",
+      "type": "road",
+      "districtId": "d14",
+      "status": "restricted",
+      "riskScore": 62,
+      "riskLevel": "high",
+      "riskFactors": [
+        "landslide",
+        "erosion"
+      ],
+      "path": [
+        [
+          23.7271,
+          92.7176
+        ],
+        [
+          24.2186,
+          92.6789
+        ]
+      ]
+    },
+    {
+      "id": "r11",
+      "name": "Kohima-Dimapur Road",
+      "type": "road",
+      "districtId": "d16",
+      "status": "open",
+      "riskScore": 22,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          25.6586,
+          94.1086
+        ],
+        [
+          25.9119,
+          93.7276
+        ]
+      ]
+    },
+    {
+      "id": "r12",
+      "name": "Gangtok-Nathula Road",
+      "type": "road",
+      "districtId": "d18",
+      "status": "blocked",
+      "riskScore": 88,
+      "riskLevel": "severe",
+      "riskFactors": [
+        "landslide",
+        "snow",
+        "road_damage"
+      ],
+      "path": [
+        [
+          27.3342,
+          88.6065
+        ],
+        [
+          27.4149,
+          88.5977
+        ]
+      ]
+    },
+    {
+      "id": "r13",
+      "name": "Agartala-Udaipur Road",
+      "type": "road",
+      "districtId": "d20",
+      "status": "open",
+      "riskScore": 12,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          23.9408,
+          91.9882
+        ],
+        [
+          23.534,
+          91.4899
+        ]
+      ]
+    },
+    {
+      "id": "r14",
+      "name": "Guwahati-Shillong Expressway",
+      "type": "road",
+      "districtId": "d01",
+      "status": "open",
+      "riskScore": 22,
+      "riskLevel": "low",
+      "riskFactors": [],
+      "path": [
+        [
+          26.1445,
+          91.7362
+        ],
+        [
+          25.467,
+          91.3662
+        ]
+      ]
+    }
+  ],
+  "bridges": [
+    {
+      "id": "b01",
+      "name": "Karbi Anglong Bridge",
+      "type": "bridge",
+      "districtId": "d03",
+      "status": "restricted",
+      "riskScore": 68,
+      "riskLevel": "high",
+      "riskFactors": [
+        "structural_damage",
+        "flood_prone"
+      ],
+      "path": [
+        [
+          26.1074,
+          93.1789
+        ],
+        [
+          26.1843,
+          93.2617
+        ]
+      ]
+    },
+    {
+      "id": "b02",
+      "name": "Lunglei Tlawng Bridge",
+      "type": "bridge",
+      "districtId": "d15",
+      "status": "blocked",
+      "riskScore": 95,
+      "riskLevel": "severe",
+      "riskFactors": [
+        "landslide",
+        "flooding",
+        "bridge_damage"
+      ],
+      "path": [
+        [
+          22.8846,
+          92.7461
+        ],
+        [
+          23.0118,
+          92.9001
+        ]
+      ]
+    },
+    {
+      "id": "b03",
+      "name": "Namchi Ravangla Bridge",
+      "type": "bridge",
+      "districtId": "d19",
+      "status": "blocked",
+      "riskScore": 91,
+      "riskLevel": "severe",
+      "riskFactors": [
+        "landslide",
+        "flooding",
+        "road_damage"
+      ],
+      "path": [
+        [
+          27.0736,
+          88.304
+        ],
+        [
+          27.2944,
+          88.3727
+        ]
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "v01",
+      "vehicleId": "NE-MED-01",
+      "destination": "Dibrugarh Hospital",
+      "status": "in_transit",
+      "supplyType": "medicine",
+      "isEssentialCargo": true,
+      "origin": "Guwahati",
+      "lat": 26.35,
+      "lon": 92.15,
+      "location": {
+        "lat": 26.35,
+        "lon": 92.15
+      },
+      "eta": "2025-01-15T14:30:00Z"
+    },
+    {
+      "id": "v02",
+      "vehicleId": "NE-FOOD-02",
+      "destination": "Tura Warehouse",
+      "status": "in_transit",
+      "supplyType": "food_supplies",
+      "isEssentialCargo": true,
+      "origin": "Guwahati",
+      "lat": 25.78,
+      "lon": 91.2,
+      "location": {
+        "lat": 25.78,
+        "lon": 91.2
+      },
+      "eta": "2025-01-15T18:00:00Z"
+    },
+    {
+      "id": "v03",
+      "vehicleId": "NE-AGRI-03",
+      "destination": "Imphal Market",
+      "status": "delayed",
+      "supplyType": "agricultural_produce",
+      "isEssentialCargo": true,
+      "origin": "Churachandpur",
+      "lat": 24.9,
+      "lon": 93.85,
+      "location": {
+        "lat": 24.9,
+        "lon": 93.85
+      },
+      "eta": "2025-01-15T22:00:00Z"
+    },
+    {
+      "id": "v04",
+      "vehicleId": "NE-CONS-04",
+      "destination": "Gangtok Site",
+      "status": "delayed",
+      "supplyType": "construction_material",
+      "isEssentialCargo": false,
+      "origin": "Siliguri",
+      "lat": 27.12,
+      "lon": 88.45,
+      "location": {
+        "lat": 27.12,
+        "lon": 88.45
+      },
+      "eta": "2025-01-16T08:00:00Z"
+    },
+    {
+      "id": "v05",
+      "vehicleId": "NE-EMRG-05",
+      "destination": "Lunglei Camp",
+      "status": "in_transit",
+      "supplyType": "medicine",
+      "isEssentialCargo": true,
+      "origin": "Aizawl",
+      "lat": 23.15,
+      "lon": 92.82,
+      "location": {
+        "lat": 23.15,
+        "lon": 92.82
+      },
+      "eta": "2025-01-15T12:00:00Z"
+    },
+    {
+      "id": "v06",
+      "vehicleId": "NE-MED-06",
+      "destination": "Kohima Hospital",
+      "status": "in_transit",
+      "supplyType": "medicine",
+      "isEssentialCargo": true,
+      "origin": "Dimapur",
+      "lat": 25.85,
+      "lon": 93.9,
+      "location": {
+        "lat": 25.85,
+        "lon": 93.9
+      },
+      "eta": "2025-01-15T10:30:00Z"
+    },
+    {
+      "id": "v07",
+      "vehicleId": "NE-FOOD-07",
+      "destination": "Agartala Depot",
+      "status": "delayed",
+      "supplyType": "food_supplies",
+      "isEssentialCargo": true,
+      "origin": "Guwahati",
+      "lat": 24.1,
+      "lon": 91.85,
+      "location": {
+        "lat": 24.1,
+        "lon": 91.85
+      },
+      "eta": "2025-01-16T06:00:00Z"
+    },
+    {
+      "id": "v08",
+      "vehicleId": "NE-MED-08",
+      "destination": "Namchi Hospital",
+      "status": "idle",
+      "supplyType": "medicine",
+      "isEssentialCargo": true,
+      "origin": "Siliguri",
+      "lat": 27.32,
+      "lon": 88.61,
+      "location": {
+        "lat": 27.32,
+        "lon": 88.61
+      },
+      "eta": null
+    },
+    {
+      "id": "v09",
+      "vehicleId": "NE-EMRG-09",
+      "destination": "Tezpur Center",
+      "status": "in_transit",
+      "supplyType": "medicine",
+      "isEssentialCargo": true,
+      "origin": "Guwahati",
+      "lat": 26.85,
+      "lon": 93.2,
+      "location": {
+        "lat": 26.85,
+        "lon": 93.2
+      },
+      "eta": "2025-01-15T16:00:00Z"
+    },
+    {
+      "id": "v10",
+      "vehicleId": "NE-AGRI-10",
+      "destination": "Tura Market",
+      "status": "in_transit",
+      "supplyType": "agricultural_produce",
+      "isEssentialCargo": true,
+      "origin": "Shillong",
+      "lat": 25.6,
+      "lon": 91.88,
+      "location": {
+        "lat": 25.6,
+        "lon": 91.88
+      },
+      "eta": "2025-01-15T20:00:00Z"
+    }
+  ],
+  "incidents": [
+    {
+      "id": "inc01",
+      "type": "landslide",
+      "severity": "high",
+      "description": "Major landslide blocks Tirap Long Road.",
+      "relatedSegmentId": "r05",
+      "location": {
+        "name": "Tirap District"
+      },
+      "reportedAt": "2025-01-14T22:30:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc02",
+      "type": "bridge_damage",
+      "severity": "high",
+      "description": "Karbi Anglong Bridge structural damage.",
+      "relatedSegmentId": "b01",
+      "location": {
+        "name": "Karbi Anglong"
+      },
+      "reportedAt": "2025-01-14T18:00:00Z",
+      "status": "under_response"
+    },
+    {
+      "id": "inc03",
+      "type": "heavy_rainfall",
+      "severity": "medium",
+      "description": "Heavy rainfall predicted in Meghalaya.",
+      "relatedSegmentId": null,
+      "location": {
+        "name": "East Khasi Hills"
+      },
+      "reportedAt": "2025-01-14T20:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc04",
+      "type": "flood",
+      "severity": "high",
+      "description": "Brahmaputra tributaries overflowing.",
+      "relatedSegmentId": null,
+      "location": {
+        "name": "West Garo Hills"
+      },
+      "reportedAt": "2025-01-14T16:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc05",
+      "type": "landslide",
+      "severity": "high",
+      "description": "Landslide on Churachandpur-Silchar road.",
+      "relatedSegmentId": "r08",
+      "location": {
+        "name": "Churachandpur"
+      },
+      "reportedAt": "2025-01-14T12:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc06",
+      "type": "blocked_road",
+      "severity": "high",
+      "description": "Snow blocks Gangtok-Nathula road.",
+      "relatedSegmentId": "r12",
+      "location": {
+        "name": "East District, Sikkim"
+      },
+      "reportedAt": "2025-01-14T10:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc07",
+      "type": "landslide",
+      "severity": "high",
+      "description": "Three landslides on Namchi-Ravangla road.",
+      "relatedSegmentId": "b03",
+      "location": {
+        "name": "South District, Sikkim"
+      },
+      "reportedAt": "2025-01-14T08:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc08",
+      "type": "landslide",
+      "severity": "high",
+      "description": "Landslide on Aizawl-Kolasib road.",
+      "relatedSegmentId": "r10",
+      "location": {
+        "name": "Aizawl, Mizoram"
+      },
+      "reportedAt": "2025-01-14T07:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc09",
+      "type": "flood",
+      "severity": "medium",
+      "description": "Brahmaputra water level rising near Guwahati.",
+      "relatedSegmentId": null,
+      "location": {
+        "name": "Kamrup Metropolitan"
+      },
+      "reportedAt": "2025-01-14T06:00:00Z",
+      "status": "under_response"
+    },
+    {
+      "id": "inc10",
+      "type": "road_damage",
+      "severity": "medium",
+      "description": "Road erosion on Mokokchung-Wokha road.",
+      "relatedSegmentId": null,
+      "location": {
+        "name": "Mokokchung"
+      },
+      "reportedAt": "2025-01-13T22:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc11",
+      "type": "landslide",
+      "severity": "medium",
+      "description": "Landslide at Tlawng River bridge approach.",
+      "relatedSegmentId": "b02",
+      "location": {
+        "name": "Lunglei"
+      },
+      "reportedAt": "2025-01-14T05:30:00Z",
+      "status": "active"
+    },
+    {
+      "id": "inc12",
+      "type": "heavy_rainfall",
+      "severity": "medium",
+      "description": "Heavy rainfall on Dharmanagar road.",
+      "relatedSegmentId": null,
+      "location": {
+        "name": "North Tripura"
+      },
+      "reportedAt": "2025-01-14T14:00:00Z",
+      "status": "active"
+    }
+  ],
+  "routes": [
+    {
+      "id": "rt01",
+      "origin": "Guwahati",
+      "destination": "Imphal",
+      "originLat": 26.1445,
+      "originLon": 91.7362,
+      "destLat": 24.8081,
+      "destLon": 93.9199,
+      "distanceKm": 485,
+      "etaMinutes": 600,
+      "status": "active"
+    },
+    {
+      "id": "rt02",
+      "origin": "Siliguri",
+      "destination": "Gangtok",
+      "originLat": 26.8308,
+      "originLon": 88.4465,
+      "destLat": 27.3342,
+      "destLon": 88.6065,
+      "distanceKm": 115,
+      "etaMinutes": 240,
+      "status": "pending"
+    },
+    {
+      "id": "rt03",
+      "origin": "Guwahati",
+      "destination": "Shillong",
+      "originLat": 26.1445,
+      "originLon": 91.7362,
+      "destLat": 25.467,
+      "destLon": 91.3662,
+      "distanceKm": 100,
+      "etaMinutes": 180,
+      "status": "active"
+    }
+  ],
+  "deliveries": [
+    {
+      "id": "del01",
+      "dispatchedAt": "2025-01-14T08:00:00Z",
+      "cargoType": "medicines",
+      "origin": "Guwahati",
+      "destination": "Dibrugarh Hospital",
+      "status": "in_transit",
+      "riskLevel": "low",
+      "priority": "high"
+    },
+    {
+      "id": "del02",
+      "dispatchedAt": "2025-01-14T06:00:00Z",
+      "cargoType": "food_grains",
+      "origin": "Guwahati",
+      "destination": "Tura Warehouse",
+      "status": "in_transit",
+      "riskLevel": "medium",
+      "priority": "high"
+    },
+    {
+      "id": "del03",
+      "dispatchedAt": "2025-01-13T14:00:00Z",
+      "cargoType": "agricultural_produce",
+      "origin": "Churachandpur",
+      "destination": "Imphal Market",
+      "status": "delayed",
+      "delayHours": 8,
+      "riskLevel": "high",
+      "priority": "medium"
+    },
+    {
+      "id": "del04",
+      "dispatchedAt": "2025-01-13T06:00:00Z",
+      "cargoType": "construction_materials",
+      "origin": "Siliguri",
+      "destination": "Gangtok Site",
+      "status": "blocked",
+      "delayHours": 24,
+      "riskLevel": "severe",
+      "priority": "low"
+    },
+    {
+      "id": "del05",
+      "dispatchedAt": "2025-01-14T04:00:00Z",
+      "cargoType": "medicines",
+      "origin": "Aizawl",
+      "destination": "Lunglei Camp",
+      "status": "in_transit",
+      "riskLevel": "high",
+      "priority": "critical"
+    },
+    {
+      "id": "del06",
+      "dispatchedAt": "2025-01-14T07:00:00Z",
+      "cargoType": "medicines",
+      "origin": "Dimapur",
+      "destination": "Kohima Hospital",
+      "status": "in_transit",
+      "riskLevel": "low",
+      "priority": "high"
+    },
+    {
+      "id": "del07",
+      "dispatchedAt": "2025-01-13T18:00:00Z",
+      "cargoType": "food_grains",
+      "origin": "Guwahati",
+      "destination": "Agartala Depot",
+      "status": "delayed",
+      "delayHours": 12,
+      "riskLevel": "medium",
+      "priority": "high"
+    },
+    {
+      "id": "del08",
+      "dispatchedAt": "2025-01-12T08:00:00Z",
+      "cargoType": "medicines",
+      "origin": "Siliguri",
+      "destination": "Namchi Hospital",
+      "status": "blocked",
+      "delayHours": 48,
+      "riskLevel": "severe",
+      "priority": "critical"
+    }
+  ],
+  "routeSuggestions": [
+    {
+      "id": "rs01",
+      "from": {
+        "name": "Guwahati",
+        "lat": 26.1445,
+        "lon": 91.7362
+      },
+      "to": {
+        "name": "Imphal",
+        "lat": 24.8081,
+        "lon": 93.9199
+      },
+      "recommended": {
+        "name": "NH-37 via Jorhat",
+        "distance": 485,
+        "eta": 10,
+        "riskLevel": "moderate",
+        "reason": "Main highway with good conditions"
+      },
+      "alternatives": [
+        {
+          "name": "Via Silchar",
+          "distance": 560,
+          "eta": 13,
+          "riskLevel": "high",
+          "reason": "Longer but avoids Karbi Anglong"
+        },
+        {
+          "name": "Via Dimapur",
+          "distance": 620,
+          "eta": 15,
+          "riskLevel": "low",
+          "reason": "Longest but safest"
+        }
+      ]
+    },
+    {
+      "id": "rs02",
+      "from": {
+        "name": "Siliguri",
+        "lat": 26.8308,
+        "lon": 88.4465
+      },
+      "to": {
+        "name": "Gangtok",
+        "lat": 27.3342,
+        "lon": 88.6065
+      },
+      "recommended": {
+        "name": "NH-10 via Rangpo",
+        "distance": 115,
+        "eta": 4,
+        "riskLevel": "severe",
+        "reason": "All routes blocked. Airlift recommended."
+      },
+      "alternatives": [
+        {
+          "name": "Helicopter",
+          "distance": 80,
+          "eta": 1,
+          "riskLevel": "low",
+          "reason": "Air transport only"
+        }
+      ]
+    },
+    {
+      "id": "rs03",
+      "from": {
+        "name": "Aizawl",
+        "lat": 23.7271,
+        "lon": 92.7176
+      },
+      "to": {
+        "name": "Lunglei",
+        "lat": 22.8846,
+        "lon": 92.7461
+      },
+      "recommended": {
+        "name": "Via Serchhip",
+        "distance": 210,
+        "eta": 7,
+        "riskLevel": "moderate",
+        "reason": "Longer but better road conditions"
+      },
+      "alternatives": [
+        {
+          "name": "Via Champhai",
+          "distance": 185,
+          "eta": 6,
+          "riskLevel": "high",
+          "reason": "Partial road with restrictions"
+        }
+      ]
+    }
+  ],
+  "shelters": [
+    {
+      "id": "sh01",
+      "name": "Tirap Community Relief Camp",
+      "districtId": "d05",
+      "lat": 26.9,
+      "lon": 95.43,
+      "capacity": 250,
+      "occupancy": 60,
+      "status": "open",
+      "type": "relief_camp",
+      "contact": "+91-90000-00001"
+    },
+    {
+      "id": "sh02",
+      "name": "Lunglei Govt. Higher Secondary School Shelter",
+      "districtId": "d15",
+      "lat": 22.89,
+      "lon": 92.75,
+      "capacity": 180,
+      "occupancy": 40,
+      "status": "open",
+      "type": "school",
+      "contact": "+91-90000-00002"
+    },
+    {
+      "id": "sh03",
+      "name": "South Sikkim District Health Centre",
+      "districtId": "d19",
+      "lat": 27.08,
+      "lon": 88.31,
+      "capacity": 100,
+      "occupancy": 20,
+      "status": "open",
+      "type": "health_center",
+      "contact": "+91-90000-00003"
+    },
+    {
+      "id": "sh04",
+      "name": "Churachandpur Community Hall",
+      "districtId": "d09",
+      "lat": 24.335,
+      "lon": 93.68,
+      "capacity": 150,
+      "occupancy": 150,
+      "status": "full",
+      "type": "community_hall",
+      "contact": "+91-90000-00004"
+    },
+    {
+      "id": "sh05",
+      "name": "Karbi Anglong Relief Camp",
+      "districtId": "d03",
+      "lat": 26.115,
+      "lon": 93.19,
+      "capacity": 200,
+      "occupancy": 55,
+      "status": "open",
+      "type": "relief_camp",
+      "contact": "+91-90000-00005"
+    },
+    {
+      "id": "sh06",
+      "name": "West Garo Hills Flood Shelter",
+      "districtId": "d12",
+      "lat": 25.62,
+      "lon": 90.23,
+      "capacity": 220,
+      "occupancy": 90,
+      "status": "open",
+      "type": "school",
+      "contact": "+91-90000-00006"
+    },
+    {
+      "id": "sh07",
+      "name": "East District Sikkim Community Centre",
+      "districtId": "d18",
+      "lat": 27.34,
+      "lon": 88.61,
+      "capacity": 120,
+      "occupancy": 0,
+      "status": "open",
+      "type": "community_hall",
+      "contact": "+91-90000-00007"
+    },
+    {
+      "id": "sh08",
+      "name": "North Tripura Relief Camp",
+      "districtId": "d21",
+      "lat": 24.33,
+      "lon": 92.1,
+      "capacity": 160,
+      "occupancy": 30,
+      "status": "open",
+      "type": "relief_camp",
+      "contact": "+91-90000-00008"
+    }
+  ]
+}

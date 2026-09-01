@@ -1,0 +1,14 @@
+{
+  "bsonType": "object",
+  "title": "Alert",
+  "required": ["title", "message"],
+  "properties": {
+    "title": { "bsonType": "string" },
+    "message": { "bsonType": "string" },
+    "severity": { "enum": ["low", "medium", "high"] },
+    "resolved": { "bsonType": "bool" },
+    "relatedLocation": { "bsonType": "objectId" },
+    "createdAt": { "bsonType": "date" },
+    "updatedAt": { "bsonType": "date" }
+  }
+}

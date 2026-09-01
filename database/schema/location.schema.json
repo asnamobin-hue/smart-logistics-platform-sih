@@ -1,0 +1,15 @@
+{
+  "bsonType": "object",
+  "title": "Location",
+  "required": ["name", "lat", "lon"],
+  "properties": {
+    "name": { "bsonType": "string" },
+    "type": { "enum": ["vehicle", "warehouse", "hub"] },
+    "lat": { "bsonType": "double" },
+    "lon": { "bsonType": "double" },
+    "status": { "enum": ["active", "idle", "offline"] },
+    "color": { "bsonType": "string" },
+    "createdAt": { "bsonType": "date" },
+    "updatedAt": { "bsonType": "date" }
+  }
+}

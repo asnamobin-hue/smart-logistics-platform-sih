@@ -1,0 +1,18 @@
+{
+  "bsonType": "object",
+  "title": "Route",
+  "required": ["origin", "destination"],
+  "properties": {
+    "origin": { "bsonType": "string" },
+    "destination": { "bsonType": "string" },
+    "originLat": { "bsonType": "double" },
+    "originLon": { "bsonType": "double" },
+    "destLat": { "bsonType": "double" },
+    "destLon": { "bsonType": "double" },
+    "distanceKm": { "bsonType": "double" },
+    "etaMinutes": { "bsonType": "int" },
+    "status": { "enum": ["pending", "active", "completed"] },
+    "createdAt": { "bsonType": "date" },
+    "updatedAt": { "bsonType": "date" }
+  }
+}
